@@ -1,0 +1,5 @@
+# ignorar archivos de extension .xsd (no los hay).
+
+*.xsd
+
+top_secret/
